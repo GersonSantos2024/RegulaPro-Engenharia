@@ -1,0 +1,6 @@
+{
+  "name": "RegulaPro - Gestão de Projetos e Engenharia",
+  "description": "Sistema completo para controle de projetos de engenharia e construção civil: organização de tarefas, prazos e fluxo operacional, anexos auditáveis por etapa, chat em tempo real, produtividade mensal, notificações push, painel administrativo de permissões (RBAC), relatórios em PDF, gerador de As-Built (IFC e DWG) e monitoramento IoT em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
